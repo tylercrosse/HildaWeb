@@ -21,7 +21,7 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 body {
   font-family: 'Arvo', serif;
   color: #383736;
-  background: #fff9d3;
+  background: #fffce6;
 }
 
 p {
@@ -100,7 +100,7 @@ a:hover {
   text-align: left;
   width: 2.5em;
   height: 2.5em;
-  background: #47a3da;
+  background: rgba(237, 229, 199, 0.91);
   border-radius: 50%;
   margin: 0 0.1em;
   border: 4px solid #fff;

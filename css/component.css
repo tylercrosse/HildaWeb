@@ -263,19 +263,19 @@
 }
 
 .ch-img-1 {
-  background-image: url(bike&build_thumb.jpg);
+  background-image: url("images/bike&build_thumb.jpg");
 }
 
 .ch-img-2 {
-  background-image: url(birthday_thumb.jpg);
+  background-image: url("images/birthday_thumb.jpg");
 }
 
 .ch-img-3 {
-  background-image: url(tobacco_thumb.jpg);
+  background-image: url("images/tobacco_thumb.jpg");
 }
 
 .ch-img-4 {
-  background-image: url(beowulf_thumb.jpg);
+  background-image: url("images/beowulf_thumb.jpg");
 }
 
 .ch-img-5 {
@@ -283,11 +283,11 @@
 }
 
 .ch-img-6 {
-  background-image: url(business_thumb.jpg);
+  background-image: url("images/business_thumb.jpg");
 }
 
 .ch-img-7 {
-  background-image: url(green_thumb.jpg);
+  background-image: url("images/green_thumb.jpg");
 }
 
 .ch-img-8 {
