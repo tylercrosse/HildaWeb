@@ -1,0 +1,31 @@
+.container{
+  margin: 0em auto 2em auto;
+  width: 80%;
+}
+
+.title-main{
+  font-size: 4em;
+}
+
+.section-details{
+  width: 100%;
+  display: block;
+  overflow: auto;
+  margin-bottom: 2em;
+}
+
+img{
+  width: 65%;
+  float: left;
+  border-radius: 6px;
+}
+
+.description{
+  width: 35%;
+  float: right;
+  padding: 0px 1em 1em 1em;
+}
+
+.title{
+  margin-top: 0em;
+}
